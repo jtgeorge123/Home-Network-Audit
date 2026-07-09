@@ -69,15 +69,15 @@ Review:
 
 ## 6. Performance Testing
 
-# Tools Used:
+Tools Used:
 
 - Task Manager
 - Resource Monitor
 
-# Run speed tests and record:
+Run speed tests and record 
 
-- Download speed
-- Upload speed
-- Latency
+- Download speed:399.8 Mbps
+- Upload speed:24.1 Mbps
+- Latency:36 ms
 
-Document any bottlenecks discovered.
+
