@@ -28,7 +28,11 @@ You can gather this information from:
 
 1. Router admin page
 2. arp -a
-3. ipconfig
+   <img width="462" height="462" alt="arp -a" src="https://github.com/user-attachments/assets/edfffb18-4bac-408c-8776-7d8252cf5b03" />
+4. ipconfig
+   <img width="282" height="618" alt="ipconfig" src="https://github.com/user-attachments/assets/bb8f35de-7f87-4c4c-a783-48af45ec8643" />
+
+
 
 ## 2. Network Diagram (drawn via free tool https://www.diagrams.net?utm_source=chatgpt.com)
 
@@ -52,6 +56,8 @@ Perform tests in cmd:
 - ping 8.8.8.8
 - ping google.com
 - tracert google.com
+<img width="837" height="750" alt="tracert" src="https://github.com/user-attachments/assets/f197f064-ecb1-426b-ad5f-4523094d3a3e" />
+
 
 Document:
 - Ping successful
@@ -65,6 +71,7 @@ Review:
 - Guest network status: Off
 - Default passwords changed? Yes
 - Firmware updates available? No
+<img width="627" height="826" alt="router" src="https://github.com/user-attachments/assets/6210931e-17da-4f28-9287-72f21b23fe7f" />
 
 
 ## 6. Performance Testing
@@ -76,8 +83,10 @@ Tools Used:
 
 Run speed tests and record 
 
-- Download speed:399.8 Mbps
-- Upload speed:24.1 Mbps
+- Download speed:1065.8 Mbps
+- Upload speed:19.1 Mbps
 - Latency:36 ms
+<img width="782" height="517" alt="speedtest" src="https://github.com/user-attachments/assets/b18a8691-b32b-4823-8a52-21e0bac1c090" />
+
 
 
