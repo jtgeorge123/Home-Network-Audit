@@ -57,3 +57,14 @@ Document:
 - Ping successful
 - Response time is about 25ms on average
 - Route traced to google.com over 30 hops. About half of them timed out.
+
+
+## 5. Wireless Security Assessment 
+Review:
+- Wi-Fi encryption type
+- Guest network status
+- Default passwords changed?
+- Firmware updates available?
+Create findings such as:
+
+Router firmware was one version behind. Updated firmware and verified successful installation.
