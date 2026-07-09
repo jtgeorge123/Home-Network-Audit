@@ -47,3 +47,13 @@ Document:
 - Default gateway: Used to connect networks all over.
 - DNS servers: Specialized computers that help web browsers, applications and other network tools locate and connect with websites and other resources on the internet.
 
+## 4. Connectivity Testing
+Perform tests in cmd:
+- ping 8.8.8.8
+- ping google.com
+- tracert google.com
+
+Document:
+- Ping successful
+- Response time is about 25ms on average
+- Route traced to google.com over 30 hops. About half of them timed out.
