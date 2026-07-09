@@ -32,13 +32,9 @@ You can gather this information from:
 
 ## 2. Network Diagram (drawn via free tool https://www.diagrams.net?utm_source=chatgpt.com)
 
-Internet
-    |
- Modem
-    |
- Router
-  /  |  \
-TV Laptop Phone
+<img width="2044" height="1764" alt="image" src="https://github.com/user-attachments/assets/9e733b5b-b742-47e4-812f-ae068065a8c1" />
+
+
 
 ## 3. IP Config Analysis
 Run in cmd:
