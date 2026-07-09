@@ -61,10 +61,23 @@ Document:
 
 ## 5. Wireless Security Assessment 
 Review:
-- Wi-Fi encryption type
-- Guest network status
-- Default passwords changed?
-- Firmware updates available?
-Create findings such as:
+- Wi-Fi encryption type: Wi-Fi 6 (802.11ax)
+- Guest network status: Off
+- Default passwords changed? Yes
+- Firmware updates available? No
 
-Router firmware was one version behind. Updated firmware and verified successful installation.
+
+## 6. Performance Testing
+
+# Tools Used:
+
+- Task Manager
+- Resource Monitor
+
+# Run speed tests and record:
+
+- Download speed
+- Upload speed
+- Latency
+
+Document any bottlenecks discovered.
