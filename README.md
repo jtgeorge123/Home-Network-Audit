@@ -71,6 +71,7 @@ Review:
 
 Tools Used:
 
+- CLI (as admin)
 - Task Manager
 - Resource Monitor
 
